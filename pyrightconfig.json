@@ -1,0 +1,12 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "<root_folder>",
+      "pythonVersion": "<py_version>",
+      "pythonPlatform": "Linux",
+      "extraPaths": [
+        "<$HOME>/.pyenv/versions/<version>/envs/<env>"
+      ]
+    }
+  ]
+}
